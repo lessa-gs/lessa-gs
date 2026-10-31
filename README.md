@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Lessa 👋
 
-<!--
-**lessa-gs/lessa-gs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner in the world of programming, and I've decided to start my journey by learning Python.
 
-Here are some ideas to get you started:
+## About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇧🇷 Brazilian portuguese Speaker.  
+🐍 Currently learning Python.  
+💻 Interested in programming and software development.  
+
+## Languages:
+🇧🇷 Portuguese (Native).  
+🇺🇸 English (Learning).  
+
+"Learning is a creative adventure, something therefore far richer than merely repeating a lesson. For us, learning means building, rebuilding, discovering in order to transform — something that cannot be done without openness to risk and the adventure of the mind." Paulo Freire
